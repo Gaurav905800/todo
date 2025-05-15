@@ -32,11 +32,14 @@ npm start
 
 🌐 REST API Endpoints
 Method Endpoint Description
-GET /api/task Get all todos
-GET /api/task/:id Get single todo
-POST /api/task Create new todo
-PUT /api/task/:id Update existing todo
-DELETE /api/task/:id Delete todo
+
+GET http://localhost:8000/api/task Get all todos
+
+POST http://localhost:8000/api/task Create new todo
+
+PUT http://localhost:8000/api/task/:id Update existing todo
+
+DELETE http://localhost:8000/api/task/:id Delete todo
 
 ✨ Features Implemented
 Core Features
