@@ -42,7 +42,9 @@ PUT http://localhost:8000/api/task/:id Update existing todo
 DELETE http://localhost:8000/api/task/:id Delete todo
 
 ✨ Features Implemented
+
 Core Features
+
 ✅ Create, read, update, and delete todos
 
 ✅ Mark todos as complete/incomplete
