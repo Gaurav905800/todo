@@ -1,9 +1,6 @@
 Todo App with BLoC
 A feature-rich Todo application built with Flutter using BLoC for state management and Hive for local storage. Supports offline functionality, dark mode, and search.
 
-📱 Screenshots
-Light Mode Dark Mode
-Light Mode Dark Mode
 🛠️ Setup Instructions
 Prerequisites
 Flutter SDK (latest stable version)
@@ -17,7 +14,6 @@ MongoDB (for database)
 Frontend Setup
 Clone the repository:
 https://github.com/Gaurav905800/todo.git
-cd todo
 
 Install dependencies:
 
